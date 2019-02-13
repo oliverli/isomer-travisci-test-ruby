@@ -40,3 +40,5 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 resources_name: news
+
+exclude: [vendor]
